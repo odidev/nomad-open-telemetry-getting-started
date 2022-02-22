@@ -1,5 +1,5 @@
 variables {
-  otel_image = "otel/opentelemetry-collector:0.38.0"
+  otel_image = "otel/opentelemetry-collector:0.43.0"
 }
 
 job "otel-collector" {
